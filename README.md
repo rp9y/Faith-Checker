@@ -1,15 +1,7 @@
 # Faith-Checker
-Simple Windows GUI application for testing HTTP POST form submissions against various endpoints.
+Simple Windows GUI application for testing big dumps of account credentials.
 
-## Purpose
-
-This is a small educational tool that helps people check if credentials are true, or false.
-
-## Features
-
-- Windows native GUI (Win32 API)
-- Combo box to select target endpoint configuration
-- Load combos from text file
-- Basic proxy support (HTTP proxies)
-- Simple string-based response parsing & extraction
-- Results logged to timestamped/random files in `./output`
+## CONTACT
+If you need help or something is wrong, contact me.
+Discord: @rp9y
+Telegram: https://t.me/rp96y
