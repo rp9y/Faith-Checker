@@ -1,1 +1,0 @@
-Here is where all your valid hits will be!
